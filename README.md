@@ -27,5 +27,5 @@ DCROD paper is published in Expert Systems with Applications (ESWA). If you use 
 ```
 or:
 ```
-Li, K., Gao, X., Fu, S. Robust outlier detection based on the changing rate of directed density ratio. Expert Systems with Applications, 2022, 207, 117988.
+Li, K., Gao, X., Fu, S., Diao, X., Ye, P., Xue, B., Yu, J., & Huang, Z. (2022). Robust outlier detection based on the changing rate of directed density ratio. Expert Systems with Applications, 207, 117988.
 ```
