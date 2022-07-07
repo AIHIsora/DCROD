@@ -88,7 +88,7 @@ class DCROD(NearestNeighbors):
 
     detector = DCROD(n_neighbors=30)
     detector.fit(X)
-    y_outlier_score = detect.decision_scores_
+    y_outlier_score = detector.decision_scores_
     # y_outlier_score is the outlier scores of samples in X.
     # You can use it to calculate AUC, or detect outliers by a threshold theta.
 
